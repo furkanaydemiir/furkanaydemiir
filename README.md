@@ -1,6 +1,2 @@
 "Hello, I'm a student at Ankara Science University and I'm trying to improve myself day by day." 
 
-💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjt4Kn3mrKSAxViSfEDHahZAoMQFnoECBwQAQ&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2Flogo-HTML5-e34f26%3Flogo%3Dhtml5%26amp%3Blabel%3D%26amp%3BlabelColor%3D555555%26amp%3BlogoColor%3Dwhite&usg=AOvVaw1sE6CHD58V2RY_J2-lJGiG&opi=89978449****)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
